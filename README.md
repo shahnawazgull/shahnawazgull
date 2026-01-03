@@ -83,7 +83,7 @@ AWS
 Ensuring reliability, scalability, and smooth CI/CD workflows.
 
 🤝 Connect With Me
-<p align="center"> <a href="https://shahnawazz-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/shahnawazgull"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:shahnawazgull2166@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shah-nawaz"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://shahnawazz-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/shahnawazgull"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:shahnawazgull2166@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shah-nawaz-70729b251"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🐍 GitHub Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
 💡 Quote I Live By
