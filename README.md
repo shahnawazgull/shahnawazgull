@@ -1,91 +1,110 @@
-<h1 align="center">Hey 👋, I'm Shah Nawaz</h1> <h3 align="center">💻 MERN Stack Developer | Crafting Scalable & High Performance Web Apps 🚀</h3> <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=8B5CF6&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Express.js+%7C+MongoDB+%7C+PostgreSQL;Turning+Figma+into+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
- </p>
-🧠 About Me
+<div align="center">
 
-I’m a Full Stack MERN Developer with 2+ years of hands-on experience building clean, scalable, and production-ready web applications. I specialize in transforming Figma and design files into pixel-perfect (1:1), fully responsive interfaces, while ensuring performance, maintainability, and great user experience.
+# Hey 👋, I'm Shah Nawaz
 
-🚀 2+ years of professional experience in MERN Stack Development
+### 💻 MERN Stack Developer | Building Scalable, High-Performance Web Apps 🚀
 
-🎨 Expert in converting Figma / UI designs into pixel-perfect code
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Pixel-Perfect+Figma+to+Code;React+%7C+Next.js+%7C+Node.js;Scalable+APIs+%7C+MongoDB+%7C+PostgreSQL;Performance+%26+Modern+UI%2FUX+Enthusiast" alt="Typing SVG" />
+</p>
 
-⚙️ Strong focus on scalable APIs, clean architecture, and reusable components
+<!-- Optional: Add a custom banner here if you have one (e.g., a hero image or animated banner) -->
+<!-- Example: <img src="https://your-banner-url.gif" alt="Banner" width="100%"/> -->
 
-🌍 Passionate about modern UI/UX, accessibility & performance optimization
+</div>
 
-🌱 Currently exploring AI-powered full stack applications
+### 🧠 About Me
 
-💬 Ask me about React, Next.js, Node.js, Express.js, MongoDB
+I'm a passionate **Full Stack MERN Developer** with **2+ years** of professional experience crafting clean, scalable, and production-ready web applications.
 
-🧰 Tech Stack
-Frontend
+I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsive, and accessible frontends while building robust, secure backends with clean architecture.
 
-HTML5, CSS3, JavaScript (ES6+)
+**What drives me:**
+- 🚀 Delivering high-performance apps with seamless user experiences
+- 🎨 Mastering modern UI/UX trends and accessibility
+- ⚡ Optimizing for speed, SEO, and scalability
+- 🌱 Exploring AI integration in full-stack apps
+- 💬 Let's talk React, Next.js, Node.js, Express, MongoDB, or anything MERN!
 
-React.js, Next.js
+<div align="center">
 
-Tailwind CSS
+### 🛠️ Tech Stack
 
-Responsive Design & Cross-Browser Compatibility
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,redux,git,github,vercel,netlify,aws,figma&perline=8" />
 
-Backend
+#### Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Redux • Responsive Design
 
-Node.js
+#### Backend & Database
+Node.js • Express.js • MongoDB • PostgreSQL • RESTful APIs
 
-Express.js
+#### Tools & Deployment
+Git/GitHub • Vercel • Netlify • AWS • Figma
 
-MongoDB
+</div>
 
-RESTful API Development & Integration
+### 💼 What I Deliver
 
-Tools & Platforms
+- 🎯 Scalable, maintainable full-stack applications for startups & businesses
+- 🧩 Reusable components & modular architectures
+- 🎨 Pixel-perfect conversions from Figma to responsive code
+- ⚡ Lightning-fast performance & smooth UX optimizations
+- 🔐 Secure, efficient backends with MongoDB/PostgreSQL
+- 🚀 Production-ready deployments with CI/CD
 
-Git & GitHub (Version Control)
+<div align="center">
 
-Vercel, Netlify, AWS (Deployment)
+### 📊 GitHub Stats
 
-Figma (UI/UX Collaboration)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahnawazgull&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazgull&theme=tokyonight&hide_border=true" />
+<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazgull&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
-Performance Optimization & SEO Best Practices
+</div>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,netlify,aws,figma" /> </p>
-💼 What I Do Best
+### 🧩 Featured Projects
 
-🎯 Build clean, maintainable, and scalable web applications
+| Project                  | Description                                      | Tech Stack                          | Links |
+|--------------------------|--------------------------------------------------|-------------------------------------|-------|
+| 🚀 **BrakeFire**        | Fire safety management & real-time billing system | Next.js, Redux, Supabase           | [Repo](link-to-repo) • [Live](link-to-live) |
+| 📊 **Instagram Insights**| Analytics data visualization connector            | Django, REST API                   | [Repo](link-to-repo) |
+| 🧾 **Job Posting Platform** | Admin dashboard for jobs & candidates          | React, Node.js, MongoDB            | [Repo](link-to-repo) |
+| 📱 **Informed Software** | Dynamic form-builder mobile app                  | React Native, Redux                | [Repo](link-to-repo) |
 
-🧩 Create reusable React components and modular architectures
+*(Add direct links to repos and live demos for better engagement!)*
 
-🎨 Convert designs to pixel-perfect (1:1) responsive layouts
+### 🌐 Deployment Expertise
+Successfully deployed production apps on **Vercel**, **Netlify**, and **AWS** with reliable CI/CD pipelines.
 
-⚡ Optimize performance for fast load times and smooth UX
+<div align="center">
 
-🔐 Develop secure and scalable Express.js & MongoDB backends
+### 🤝 Connect With Me
 
-🚀 Deliver production-ready solutions for SaaS, startups & businesses
+<a href="https://shahnawazz-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/shahnawazgull" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:shahnawazgull2166@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/shah-nawaz-70729b251" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-📈 GitHub Analytics
-<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=shahnawazgull&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazgull&theme=tokyonight&hide_border=true" /> </p>
-🧩 Featured Projects
-Project	Description	Tech Stack
-🚀 BrakeFire	Fire safety management & billing system with real-time subscriptions	Next.js, Redux, Supabase
-📊 Instagram Insights Connector	Data visualization connector for Instagram analytics	Django, REST API
-🧾 Job Posting Platform	Admin dashboard for job & candidate management	React, Node.js, MongoDB
-📱 Informed Software	Dynamic form-builder mobile application	React Native, Redux
-🌐 Deployment Experience
+<br/><br/>
 
-I’ve successfully deployed applications on:
+<img src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-Vercel
+</div>
 
-Netlify
+### 💡 Quote I Live By
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-AWS
+---
 
-Ensuring reliability, scalability, and smooth CI/CD workflows.
-
-🤝 Connect With Me
-<p align="center"> <a href="https://shahnawazz-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/shahnawazgull"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:shahnawazgull2166@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shah-nawaz-70729b251"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🐍 GitHub Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
-💡 Quote I Live By
-
-“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahnawazgull&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
+</div>
