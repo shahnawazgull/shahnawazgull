@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shah Nawaz</h1> <h3 align="center">💻 Full Stack MERN Developer | Crafting Scalable & High-Performance Web Apps 🚀</h3> <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=8B5CF6&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Express.js+%7C+MongoDB+%7C+PostgreSQL;Turning+Figma+into+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
+<h1 align="center">Hey 👋, I'm Shah Nawaz</h1> <h3 align="center">💻 MERN Stack Developer | Crafting Scalable & High Performance Web Apps 🚀</h3> <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=8B5CF6&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Express.js+%7C+MongoDB+%7C+PostgreSQL;Turning+Figma+into+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
  </p>
 🧠 About Me
 
@@ -63,7 +63,7 @@ Performance Optimization & SEO Best Practices
 🚀 Deliver production-ready solutions for SaaS, startups & businesses
 
 📈 GitHub Analytics
-<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ferozamir&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferozamir&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=shahnawazgull&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazgull&theme=tokyonight&hide_border=true" /> </p>
 🧩 Featured Projects
 Project	Description	Tech Stack
 🚀 BrakeFire	Fire safety management & billing system with real-time subscriptions	Next.js, Redux, Supabase
@@ -83,9 +83,9 @@ AWS
 Ensuring reliability, scalability, and smooth CI/CD workflows.
 
 🤝 Connect With Me
-<p align="center"> <a href="https://feroz-mern.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/ferozamir"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:ferozamir.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ferozamir"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://shahnawazz-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/shahnawazgull"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:shahnawazgull2166@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shah-nawaz"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🐍 GitHub Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/ferozamir/ferozamir/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
 💡 Quote I Live By
 
 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
