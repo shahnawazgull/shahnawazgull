@@ -27,8 +27,11 @@ I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsi
 <div align="center">
 
 ### 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,redux,git,github,vercel,netlify,aws,figma&perline=8" />
+<img 
+  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,redux,git,github,vercel,netlify,aws,figma&size=64"
+  width="100%"
+  alt="Tech Stack"
+/>
 
 #### Frontend
 HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Redux • Responsive Design
