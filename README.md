@@ -97,7 +97,7 @@ Successfully deployed production apps on **Vercel**, **Netlify**, and **AWS** wi
 </p>
 
 <div align="center">
-
+---
 ### 🤝 Connect With Me
 
 <a href="https://shahnawazz-portfolio.vercel.app" target="_blank">
