@@ -94,7 +94,11 @@ Successfully deployed production apps on **Vercel**, **Netlify**, and **AWS** wi
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img 
+  src="https://raw.githubusercontent.com/shahnawazgull/shahnawazgull/output/github-contribution-grid-snake-dark.svg" 
+  alt="Contribution Snake" 
+/>
+
 
 
 </div>
