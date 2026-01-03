@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Shah Nawaz</h1> <h3 align="center">💻 Full Stack MERN Developer | Crafting Scalable & High-Performance Web Apps 🚀</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?
-                                                                                                                                                                         width="50%" size=22&duration=4000&color=8B5CF6&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Express.js+%7C+MongoDB+%7C+PostgreSQL;Turning+Figma+into+Pixel-Perfect+Web+Apps" alt="Typing SVG" /> </p>
+<h1 align="center">Hey 👋, I'm Shah Nawaz</h1> <h3 align="center">💻 Full Stack MERN Developer | Crafting Scalable & High-Performance Web Apps 🚀</h3> <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=8B5CF6&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Express.js+%7C+MongoDB+%7C+PostgreSQL;Turning+Figma+into+Pixel-Perfect+Web+Apps" alt="Typing SVG" />
+ </p>
 🧠 About Me
 
 I’m a Full Stack MERN Developer with 2+ years of hands-on experience building clean, scalable, and production-ready web applications. I specialize in transforming Figma and design files into pixel-perfect (1:1), fully responsive interfaces, while ensuring performance, maintainability, and great user experience.
