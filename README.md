@@ -62,7 +62,7 @@ Performance Optimization & SEO Best Practices
 🚀 Deliver production-ready solutions for SaaS, startups & businesses
 
 📈 GitHub Analytics
-<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ferozamir&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferozamir&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ferozamir&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferozamir&theme=tokyonight&hide_border=true" /> </p>
 🧩 Featured Projects
 Project	Description	Tech Stack
 🚀 BrakeFire	Fire safety management & billing system with real-time subscriptions	Next.js, Redux, Supabase
