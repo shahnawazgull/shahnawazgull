@@ -65,8 +65,8 @@ Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 
 | Project                  | Description                                      | Tech Stack                          | Links |
 |--------------------------|--------------------------------------------------|-------------------------------------|-------|
-| 🚀 **QuickCampaings.io**        | For Meta Ads Generation | Next.js, CSS3,           | [Live Demo](https://quickcam.vercel.app/) • |
-| 🌟 **FYPAS**             | Final Year Project Automation System |HTML%, CSS3, JavaScript, Django, NLP AI/ML | [Live Demo](http://16.171.8.211/) |
+| 🚀 **QuickCampaings.io**        | For Meta Ads Generation | Next.js, CSS3,           | [Live Demo](https://quickcam.vercel.app/) |
+| 🌟 **FYPAS**             | Final Year Project Automation System |HTML, CSS3, JavaScript, Django, Natural Language Processing AI/ML | [Live Demo](http://16.171.8.211/) |
 
 
 ### 🌐 Deployment Expertise
