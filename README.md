@@ -26,7 +26,7 @@ I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsi
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,redux,git,github,vercel,netlify,aws,figma&perline=8" />
 
