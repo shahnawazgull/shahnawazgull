@@ -10,6 +10,9 @@
 >
 
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 ### 🧠 About Me
 
@@ -23,6 +26,9 @@ I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsi
 - ⚡ Optimizing for speed, SEO, and scalability
 - 🌱 Exploring AI integration in full-stack apps
 - 💬 Let's talk React, Next.js, Node.js, Express, MongoDB, or anything MERN!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 <div align="center">
 
@@ -43,6 +49,9 @@ Node.js • Express.js • MongoDB • RESTful APIs
 Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 ### 💼 What I Deliver
 
@@ -52,6 +61,9 @@ Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 - ⚡ Lightning-fast performance & smooth UX optimizations
 - 🔐 Secure, efficient backends with MongoDB/PostgreSQL
 - 🚀 Production-ready deployments with CI/CD
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 <div align="center">
 
@@ -63,6 +75,9 @@ Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazgull&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 ### 🧩 Featured Projects
 
@@ -71,9 +86,15 @@ Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 | 🚀 **QuickCampaings.io**        | For Meta Ads Generation | Next.js, CSS3,           | [Live Demo](https://quickcam.vercel.app/) |
 | 🌟 **FYPAS**             | Final Year Project Automation System |HTML, CSS3, JavaScript, Django, Natural Language Processing AI/ML | [Live Demo](http://16.171.8.211/) |
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 ### 🌐 Deployment Expertise
 Successfully deployed production apps on **Vercel**, **Netlify**, and **AWS** with reliable CI/CD pipelines.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750305-03a7c6d1-1c7c-4c2a-9a0b-7eaa6e02a8fd.gif" width="100%" />
+</p>
 
 <div align="center">
 
