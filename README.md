@@ -5,17 +5,15 @@
 ### 💻 MERN Stack Developer | Building Scalable, High-Performance Web Apps 🚀
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Pixel-Perfect+Figma+to+Code;React+%7C+Next.js+%7C+Node.js;Scalable+APIs+%7C+MongoDB+%7C+PostgreSQL;Performance+%26+Modern+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Pixel-Perfect+Figma+to+Code;React+%7C+Next.js+%7C+Node.js;Scalable+APIs+%7C+MongoDB+%7C+PostgreSQL;Performance+%26+Modern+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
-
-<!-- Optional: Add a custom banner here if you have one (e.g., a hero image or animated banner) -->
-<!-- Example: <img src="https://your-banner-url.gif" alt="Banner" width="100%"/> -->
+>
 
 </div>
 
 ### 🧠 About Me
 
-I'm a passionate **Full Stack MERN Developer** with **2+ years** of professional experience crafting clean, scalable, and production-ready web applications.
+I'm a passionate **MERN Stack Developer** with **2+ years** of professional experience crafting clean, scalable, and production-ready web applications.
 
 I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsive, and accessible frontends while building robust, secure backends with clean architecture.
 
@@ -36,10 +34,10 @@ I excel at turning Figma/UI designs into **pixel-perfect (1:1)**, fully responsi
 HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Redux • Responsive Design
 
 #### Backend & Database
-Node.js • Express.js • MongoDB • PostgreSQL • RESTful APIs
+Node.js • Express.js • MongoDB • RESTful APIs
 
 #### Tools & Deployment
-Git/GitHub • Vercel • Netlify • AWS • Figma
+Git/GitHub • Vercel • Netlify • AWS • Docker • Figma
 
 </div>
 
@@ -67,12 +65,9 @@ Git/GitHub • Vercel • Netlify • AWS • Figma
 
 | Project                  | Description                                      | Tech Stack                          | Links |
 |--------------------------|--------------------------------------------------|-------------------------------------|-------|
-| 🚀 **BrakeFire**        | Fire safety management & real-time billing system | Next.js, Redux, Supabase           | [Repo](link-to-repo) • [Live](link-to-live) |
-| 📊 **Instagram Insights**| Analytics data visualization connector            | Django, REST API                   | [Repo](link-to-repo) |
-| 🧾 **Job Posting Platform** | Admin dashboard for jobs & candidates          | React, Node.js, MongoDB            | [Repo](link-to-repo) |
-| 📱 **Informed Software** | Dynamic form-builder mobile app                  | React Native, Redux                | [Repo](link-to-repo) |
+| 🚀 **QuickCampaings.io**        | For Meta Ads Generation | Next.js, CSS3,           | [Live Demo](https://quickcam.vercel.app/) • |
+| 🌟 **FYPAS**             | Final Year Project Automation System |HTML%, CSS3, JavaScript, Django, NLP AI/ML | [Live Demo](http://16.171.8.211/) |
 
-*(Add direct links to repos and live demos for better engagement!)*
 
 ### 🌐 Deployment Expertise
 Successfully deployed production apps on **Vercel**, **Netlify**, and **AWS** with reliable CI/CD pipelines.
